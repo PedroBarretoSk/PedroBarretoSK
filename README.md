@@ -6,7 +6,7 @@ Olá sou Pedro Henrique Barreto. Bacharel em ciência da computação, desenvolv
 - Estou estudando no momento React e UX
 - 👯 I’m looking to collaborate on project for help persons
 - Eu procuro participar e ajudar com projetos que ajude pessoas.
-- 🤔 I’m looking for help with oportunit
+
 
 
 <div style="display: inline_block"><br>
