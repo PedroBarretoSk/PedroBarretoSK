@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Barreto;I'm+29+years+old;I'm+from+Brazil;I+Graduated+Computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Barreto;I'm+31+years+old;I'm+from+Brazil;I+Graduated+Computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Front-end
 - Atualmente trabalhando com Front-end
